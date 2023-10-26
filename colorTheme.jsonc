@@ -1,5 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
+	"name": "fancyHacker"
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#130d47",
