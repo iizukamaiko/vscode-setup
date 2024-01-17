@@ -28,6 +28,7 @@
   "activationEvents": [
     "onColorTheme:fancyHacker"
   ],
+  "main": "./main.js",
   "contributes": {
     "themes": [
       {
